@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.headline {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.link-text {
+  color: Aquamarine;
+  font-size: 16px;
+}
